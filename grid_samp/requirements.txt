@@ -1,0 +1,8 @@
+numpy==1.23.5
+Pillow==9.4.0
+Pillow==11.3.0
+scipy==1.10.1
+skimage==0.0
+~atplotlib==3.7.2
+~atplotlib==3.8.0
+~atplotlib==3.8.4
