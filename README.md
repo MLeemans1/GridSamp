@@ -44,6 +44,9 @@ swapped_regions_mosaic_1 = Mosaic.generate(image_1, swapped_regions)
 This is a beta release; expect API changes.
 Contributions and feedback are welcome!
 
+## Cite GridSamp
+Leemans, M., Bossens, C., & Wagemans, J. (in preparation). GridSamp: An open source python toolbox for grid-based image sampling.
+
+
 ## Contact
 maarten.leemans@kuleuven.be - Maarten Leemans, Maintainer
-Acknowledge collaborators, inspirations, or relevant research. Manuscript in preparation.
