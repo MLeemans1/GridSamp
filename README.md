@@ -2,7 +2,7 @@
 The official PIL Implementation of GridSamp: A common environment for grid-based image sampling using intuitive python code.
 
 ## Overview
-The GridSamp Python toolbox was created by Leemans, Bossens, and Wagemans (manuscript in preparation) as a tool for sampling local image regions using a gridded structure. It was created in Python 3.8 and is dependent on the following Python libraries: Pillow, numpy, scipy, and skimage. We thank the developers of each of these libraries and the Python programming language.
+The GridSamp Python toolbox was created by Leemans, Bossens, and Wagemans (manuscript in preparation) as a tool for grid-based image sampling. It was created in Python 3.8 and is dependent on the following Python libraries: Pillow, numpy, scipy, and skimage. We thank the developers of each of these libraries and the Python programming language.
 
 ## Install
 ```
