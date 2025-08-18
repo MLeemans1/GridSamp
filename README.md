@@ -30,14 +30,14 @@ from grid_samp.assemble import Mosaic
 image = Image.open('example img.jpg')
 
 # Initialize grid
-fixed_grid = FixedGrid(image = image_1, n_rows = 4, n_cols = 5)
+fixed_grid = FixedGrid(image = image, n_rows = 4, n_cols = 5)
 
 # Access and manipulate image regions
 region_list = fixed_grid.image_regions
 swapped_regions = region_list.swap(region_1_index = 10, region_2_index = 14)
 
 # Extract result
-swapped_regions_mosaic_1 = Mosaic.generate(image_1, swapped_regions)
+swapped_regions_mosaic_1 = Mosaic.generate(image, swapped_regions)
 ```
 
 ## Development Status
