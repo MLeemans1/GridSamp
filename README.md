@@ -23,8 +23,8 @@ A simple example:
 ```
 # Open grid_samp toolbox
 from grid_samp import ImageRegion, ImageRegionList
-from grid_samp.grids import FixedGrid, RecursiveGrid, ImageRegionBasedGrid
-from grid_samp.assemble import ROI, ImageRegionIntersectionHeatmap, Mosaic, Contextualize
+from grid_samp.grids import FixedGrid
+from grid_samp.assemble import Mosaic
 
 # Load example image
 image = Image.open('example img.jpg')
