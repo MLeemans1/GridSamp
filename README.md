@@ -19,6 +19,7 @@ pip install -e .
 ```
 
 ## Usage 
+A simple example:
 ```
 # Open grid_samp toolbox
 from grid_samp import ImageRegion, ImageRegionList
