@@ -6,12 +6,12 @@ The GridSamp Python toolbox was created by Leemans, Bossens, and Wagemans (manus
 
 ## Install
 ```
-pip install [https://github.com/username/project-name.git](https://github.com/MLeemans1/GridSamp.git)
+pip install https://github.com/MLeemans1/GridSamp.git
 ```
 or 
 ```
 # clone the repo
-git clone [https://github.com/username/project-name.git](https://github.com/MLeemans1/GridSamp.git)
+git clone https://github.com/MLeemans1/GridSamp.git
 cd grid_samp
 
 # install locally
