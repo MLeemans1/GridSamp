@@ -1,4 +1,4 @@
-# GridSamp (beta)
+# GridSamp
 The official PIL Implementation of GridSamp: A common environment for grid-based image sampling using intuitive python code.
 
 ## Overview
@@ -41,7 +41,6 @@ swapped_regions_mosaic_1 = Mosaic.generate(image, swapped_regions)
 ```
 
 ## Development Status
-This is a beta release; expect API changes.
 Contributions and feedback are welcome!
 
 ## Cite GridSamp
